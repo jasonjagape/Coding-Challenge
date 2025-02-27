@@ -1,0 +1,14 @@
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\bin\Debug\net8.0\SimpleOldPhoneCode.exe
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\bin\Debug\net8.0\SimpleOldPhoneCode.deps.json
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\bin\Debug\net8.0\SimpleOldPhoneCode.runtimeconfig.json
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\bin\Debug\net8.0\SimpleOldPhoneCode.dll
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\bin\Debug\net8.0\SimpleOldPhoneCode.pdb
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\SimpleOldPhoneCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\SimpleOldPhoneCode.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\SimpleOldPhoneCode.AssemblyInfo.cs
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\SimpleOldPhoneCode.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\SimpleOldPhoneCode.dll
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\refint\SimpleOldPhoneCode.dll
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\SimpleOldPhoneCode.pdb
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\SimpleOldPhoneCode.genruntimeconfig.cache
+C:\Users\jason\source\repos\SimpleOldPhoneCode\SimpleOldPhoneCode\obj\Debug\net8.0\ref\SimpleOldPhoneCode.dll
