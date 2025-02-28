@@ -6,7 +6,7 @@
   2-9         | Select letters from A-Z
   1           | some special characters
   0           | Space key
-  *           | Backspace
-  #           | Send
+ "*"          | Backspace
+ "#"          | Send
 
   Thank you
